@@ -1,6 +1,6 @@
 # Kevin Kiarie — Full Stack Engineer
 
-> Building scalable, production-grade software at [NexusCAE.ai](https://nexuscae.ai)
+> Building scalable, production-grade software at [Nexuscale.ai](https://nexuscae.ai)
 
 ---
 
