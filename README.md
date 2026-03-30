@@ -56,7 +56,7 @@ Currently based at **NexusCAE.ai**, where I contribute to building intelligent, 
 
 ## Contact
 
-- **Website:** [kevinmkiarie.dev](https://kevinmkiarie.dev)
+- **Website:** [kevinmbuguakiarie.dev](https://kevinmbuguakiarie.dev)
 - **Email:** kiarie7mbugua@gmail.com
 - **Organization:** [Nexuscale.ai](https://nexuscale.ai)
 
