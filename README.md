@@ -1,6 +1,6 @@
 # Kevin Kiarie — Senior Full Stack Engineer
 
-> Architecting scalable, production-grade systems at [NexusCAE.ai](https://nexuscae.ai) · Based in Nairobi, Kenya
+> Architecting scalable, production-grade systems in Kenya and the Global. Reach Out to build the future and the next big thing!
 
 ---
 
@@ -37,6 +37,7 @@ Currently at **NexusCAE.ai**, building intelligent infrastructure at the frontie
 ## Technology Stack
 
 ### Languages
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" title="JavaScript" />
   <img width="12" />
@@ -48,6 +49,7 @@ Currently at **NexusCAE.ai**, building intelligent infrastructure at the frontie
 </div>
 
 ### Frontend
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" title="Next.js" />
   <img width="12" />
@@ -63,6 +65,7 @@ Currently at **NexusCAE.ai**, building intelligent infrastructure at the frontie
 </div>
 
 ### Backend & Frameworks
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="28" alt="Django" title="Django" />
   <img width="12" />
@@ -74,6 +77,7 @@ Currently at **NexusCAE.ai**, building intelligent infrastructure at the frontie
 </div>
 
 ### Databases & Cloud
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
@@ -90,7 +94,6 @@ Currently at **NexusCAE.ai**, building intelligent infrastructure at the frontie
 
 - **Website:** [kevinmbuguakiarie.dev](https://kevinmbuguakiarie.dev)
 - **Email:** kiarie7mbugua@gmail.com
-- **Organization:** [NexusCAE.ai](https://nexuscae.ai)
 
 ---
 
