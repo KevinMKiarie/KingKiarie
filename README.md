@@ -85,7 +85,9 @@ Clarity of architecture, developer velocity, and long-term maintainability guide
 
 </div>
 
-<img src="https://raw.githubusercontent.com/KevinMKiarie/KevinMKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
+
+
 
 ---
 
