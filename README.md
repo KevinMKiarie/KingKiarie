@@ -23,10 +23,10 @@ Currently building intelligent infrastructure at **Nexuscale.ai**.
   Bridging design and development to create compelling digital experiences.
 
 - **Verity Growth Coaching** — Full Stack Developer  
-  Designed and built the coaching platform, focusing on elegant user experience and secure, performant web applications.
+  Designed and built the coaching platform with focus on elegant UX and secure performance.
 
 - **Computer Pride Limited** — Software Developer  
-  Delivered robust enterprise solutions with strong emphasis on database engineering and system integration.
+  Delivered robust enterprise solutions with strong database and system integration work.
 
 - **Voluntary Service** — Community & Technical Contributor  
   Supported impactful initiatives through technology and strategic problem-solving.
@@ -36,20 +36,19 @@ Currently building intelligent infrastructure at **Nexuscale.ai**.
 ## Core Expertise
 
 **Backend & Systems**  
-Event-driven architectures, microservices, real-time systems, background processing, and scalable APIs using Elixir Phoenix, NestJS, Django, and Express.
+Event-driven architectures, microservices, real-time systems, and scalable APIs using Elixir Phoenix, NestJS, Django, and Express.
 
 **Frontend Engineering**  
-Component-driven, accessible, and high-performance interfaces with Next.js, React, and modern styling systems (Tailwind CSS).
+Component-driven, accessible, and high-performance interfaces with Next.js, React, and Tailwind CSS.
 
 **AI & Automation**  
-LLM integrations, intelligent workflow automation, Python-based pipelines, and AI tooling that drive real business outcomes.
+LLM integrations, intelligent workflow automation, and Python-based pipelines.
 
 **Data & Infrastructure**  
-PostgreSQL and MSSQL mastery — schema design, optimisation, migrations, and ERP integrations (including Sage 300).  
-Cloud deployments on Vercel, Fly.io, and Azure with Docker and CI/CD best practices.
+PostgreSQL & MSSQL mastery, ERP integrations (Sage 300), cloud deployments on Vercel, Fly.io, and Azure with Docker & CI/CD.
 
 **Approach**  
-I prioritise clarity of architecture, developer velocity, and long-term maintainability. Every system I build is designed to scale gracefully and evolve with the business.
+Clarity of architecture, developer velocity, and long-term maintainability guide every system I build.
 
 ---
 
@@ -79,11 +78,16 @@ I prioritise clarity of architecture, developer velocity, and long-term maintain
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+[![Kevin Kiarie's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KingKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/KingKiarie)
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=KingKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)](https://github.com/KingKiarie)
+
 </div>
 
-<img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
+
+
 
 ---
 
@@ -91,7 +95,7 @@ I prioritise clarity of architecture, developer velocity, and long-term maintain
 
 - **Website**: [kevinmbuguakiarie.dev](https://kevinmbuguakiarie.dev)
 - **Email**: kiarie7mbugua@gmail.com
-- **LinkedIn**: [Kevin Kiarie](https://ke.linkedin.com/in/kevin-kiarie-662a36281)
+- **LinkedIn**: [Kevin Kiarie](https://www.linkedin.com/in/kevin-kiarie-662a36281) _(update link if needed)_
 
 ---
 
