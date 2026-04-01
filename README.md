@@ -87,15 +87,13 @@ Clarity of architecture, developer velocity, and long-term maintainability guide
 
 <img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
 
-
-
 ---
 
 ## Let's Connect
 
 - **Website**: [kevinmbuguakiarie.dev](https://kevinmbuguakiarie.dev)
 - **Email**: kiarie7mbugua@gmail.com
-- **LinkedIn**: [Kevin Kiarie](https://www.linkedin.com/in/kevin-kiarie-662a36281) _(update link if needed)_
+- **LinkedIn**: [Kevin Kiarie](https://www.linkedin.com/in/kevin-kiarie-662a36281)
 
 ---
 
