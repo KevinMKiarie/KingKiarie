@@ -79,15 +79,13 @@ Clarity of architecture, developer velocity, and long-term maintainability guide
 
 <div align="center">
 
-[![Kevin Kiarie's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KingKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/KingKiarie)
+[![Kevin Kiarie's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KevinMKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/KevinMKiarie)
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=KingKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)](https://github.com/KingKiarie)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=KevinMKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)](https://github.com/KevinMKiarie)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
-
-
+<img src="https://raw.githubusercontent.com/KevinMKiarie/KevinMKiarie/output/snake.svg" alt="Contribution graph" width="100%" />
 
 ---
 
