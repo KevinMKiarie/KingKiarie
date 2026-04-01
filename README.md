@@ -79,7 +79,7 @@ Clarity of architecture, developer velocity, and long-term maintainability guide
 
 <div align="center">
 
-[![Kevin Kiarie's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KevinMKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/KevinMKiarie)
+<!-- [![Kevin Kiarie's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KevinMKiarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/KevinMKiarie) -->
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=KevinMKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)](https://github.com/KevinMKiarie)
 
